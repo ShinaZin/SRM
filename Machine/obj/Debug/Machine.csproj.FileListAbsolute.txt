@@ -1,0 +1,6 @@
+D:\Docs\Системное ПО\SRM\Machine\bin\Debug\Machine.exe.config
+D:\Docs\Системное ПО\SRM\Machine\obj\Debug\Machine.csprojResolveAssemblyReference.cache
+D:\Docs\Системное ПО\SRM\Machine\bin\Debug\Machine.exe
+D:\Docs\Системное ПО\SRM\Machine\bin\Debug\Machine.pdb
+D:\Docs\Системное ПО\SRM\Machine\obj\Debug\Machine.exe
+D:\Docs\Системное ПО\SRM\Machine\obj\Debug\Machine.pdb
