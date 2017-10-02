@@ -1,0 +1,5 @@
+D:\Docs\Системное ПО\SRM\SymbTabGen\bin\Release\SymbTabGen.exe.config
+D:\Docs\Системное ПО\SRM\SymbTabGen\bin\Release\SymbTabGen.exe
+D:\Docs\Системное ПО\SRM\SymbTabGen\bin\Release\SymbTabGen.pdb
+D:\Docs\Системное ПО\SRM\SymbTabGen\obj\Release\SymbTabGen.exe
+D:\Docs\Системное ПО\SRM\SymbTabGen\obj\Release\SymbTabGen.pdb

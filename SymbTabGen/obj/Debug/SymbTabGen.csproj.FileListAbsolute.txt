@@ -1,0 +1,6 @@
+D:\Docs\Системное ПО\SRM\SymbTabGen\bin\Debug\SymbTabGen.exe.config
+D:\Docs\Системное ПО\SRM\SymbTabGen\bin\Debug\SymbTabGen.exe
+D:\Docs\Системное ПО\SRM\SymbTabGen\bin\Debug\SymbTabGen.pdb
+D:\Docs\Системное ПО\SRM\SymbTabGen\obj\Debug\SymbTabGen.csprojResolveAssemblyReference.cache
+D:\Docs\Системное ПО\SRM\SymbTabGen\obj\Debug\SymbTabGen.exe
+D:\Docs\Системное ПО\SRM\SymbTabGen\obj\Debug\SymbTabGen.pdb
