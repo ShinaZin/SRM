@@ -1,0 +1,6 @@
+D:\Docs\Системное ПО\SRM\Assembler\bin\Debug\Assembler.exe.config
+D:\Docs\Системное ПО\SRM\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+D:\Docs\Системное ПО\SRM\Assembler\bin\Debug\Assembler.exe
+D:\Docs\Системное ПО\SRM\Assembler\bin\Debug\Assembler.pdb
+D:\Docs\Системное ПО\SRM\Assembler\obj\Debug\Assembler.exe
+D:\Docs\Системное ПО\SRM\Assembler\obj\Debug\Assembler.pdb
